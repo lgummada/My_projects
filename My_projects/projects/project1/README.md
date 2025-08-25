@@ -21,7 +21,7 @@ The app dynamically fetches quiz questions from a MySQL database and displays th
 
 Frontend: React, TailwindCSS, Axios
 
-Backend: Node.js, Express.js
+Backend: Python
 
 Database: MySQL
 
